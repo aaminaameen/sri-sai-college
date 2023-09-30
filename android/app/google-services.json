@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "60369272848",
+    "project_id": "sri-sai-176d9",
+    "storage_bucket": "sri-sai-176d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60369272848:android:e43d49532025dbd53bca95",
+        "android_client_info": {
+          "package_name": "com.example.sri_sai_col"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60369272848-evc2k755ss2s4d0ngen5trto84l85due.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0fk4a48WSw9TCmHw7m9-bOxvlPE4h23Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60369272848-evc2k755ss2s4d0ngen5trto84l85due.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
